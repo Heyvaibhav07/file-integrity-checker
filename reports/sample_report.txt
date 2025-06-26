@@ -1,0 +1,7 @@
+=== Integrity Check Report ===
+2c2
+< 3a9f85c3c3d3cf9d68db70a2fcb90c13  /home/user/Documents/test/file1.txt
+---
+> 8b1a9953c4611296a827abf8c47804d7  /home/user/Documents/test/file1.txt
+5d4
+< 7624dd289d3e67fc12101a469fdaeff7  /home/user/Documents/test/file3.txt
